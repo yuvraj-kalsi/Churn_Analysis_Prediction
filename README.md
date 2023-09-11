@@ -37,6 +37,8 @@ By providing solution for churn, businesses can preserve their market position,a
 
 ## Implementation
 
+[Kaggle link](https://www.kaggle.com/code/yuvrajkalsi/churn-pred-analysis/notebook)
+
 **Dataset used in the program:** 🔗[Telecom Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?datasetId=13996&sortBy=voteCount)
 
 The dataset contains:
