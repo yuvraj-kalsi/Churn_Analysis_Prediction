@@ -9,7 +9,7 @@
 While looking at both Business operational insights and customer experience insights along the customer feedbacks is foundational in order to predict churn.  
 A scenario where a customer who has declined in recent visits and gives a feedback score of 6 of 10 after their latest shopping experience, could have an increased probability of churning.
 
-## What is Churn Analysis and Prediction is important for companies ? 
+## Why is Churn Analysis and Prediction is important for companies ? 
 Generally in a business perspective it costs more to acquire new customers than it does to retain existing customers. In fact, an increase in customer retention of just 5% can create at least a 25% increase in profit. This is because returning customers will likely spend 60% more on a company's products and services. As a result, the company can spend less on the operating costs of having to acquire new customers by spending time and money on convincing an existing customer to select your company over competitors because they've already made their mind.
 
 However, if a company could forecast why and which customers are likely to leave ahead of time, **it can focus on customer retention efforts only on these "high risk" clients**. This helps in achieving the goal of expanding its customer base and retrieve more customers loyalty.
