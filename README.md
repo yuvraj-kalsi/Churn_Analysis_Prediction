@@ -61,6 +61,8 @@ The dataset contains:
 3. Logistic Regression
 4. Decision Tree Classifier
 5. Adaboost Classifier
+6. Gradient Boosting Classifier
+7. XGBoosting Classifier
 ```
 
 From the Above models, we can say that the **Random Forest Model** performs much better than the other models. 
